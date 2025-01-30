@@ -1,1 +1,1 @@
-# dhur
+# dhur has been created as a part of our CSE370 project along with greensod and dia-j. It is a skill exchanging website with chatting system, friend requests, options of rating skills and user, and many more. Needs to be polished.
